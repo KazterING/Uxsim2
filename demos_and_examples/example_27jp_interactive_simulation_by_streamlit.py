@@ -111,3 +111,7 @@ st.write("平均旅行時間:", f"{stats['avg_travel_time']:.1f}", "秒")
 st.subheader("時空間車両軌跡図")
 fig2 = sim.show_time_space_diagram()
 st.pyplot(fig2)
+
+
+
+
