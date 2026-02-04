@@ -80,9 +80,3 @@ Ideal para investigación, docencia y aplicaciones municipales.
 
 ---
 
-## ▶️ Cómo Ejecutar los Ejemplos
-
-Instalar UXsim:
-
-```bash
-pip install uxsim
